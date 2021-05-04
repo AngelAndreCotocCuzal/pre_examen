@@ -8,6 +8,7 @@ using namespace std;
 int main() 
 {
 	// Buscar cadena ****************************
+	// Probando programa de git
 	string cadena;
 	cout << "Ingrese cadena: " << endl;
 	//cin >> cadena;
